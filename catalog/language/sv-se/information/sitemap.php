@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']			= 'Webbkarta';
 
 // Text
-$_['text_special']     = 'Special Offers';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Account Information';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_history']     = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Shopping Cart';
-$_['text_checkout']    = 'Checkout';
-$_['text_search']      = 'Search';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
+$_['text_special']			= 'Erbjudanden';
+$_['text_account']			= 'Mitt konto';
+$_['text_edit']				= 'Kontoinformation';
+$_['text_password']		= 'Lösenord';
+$_['text_address']			= 'Adressbok';
+$_['text_history']			= 'Beställningshistorik';
+$_['text_download']		= 'Nedladdningar';
+$_['text_cart']				= 'Kundvagn';
+$_['text_checkout']		= 'Kassan';
+$_['text_search']			= 'Sök';
+$_['text_information']	= 'Information';
+$_['text_contact']			= 'Kontakta oss';

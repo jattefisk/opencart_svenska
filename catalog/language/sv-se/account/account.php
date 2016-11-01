@@ -18,5 +18,5 @@ $_['text_reward']        = 'Dina bonuspoäng';
 $_['text_return']        = 'Visa returer';
 $_['text_transaction']   = 'Visa transaktioner';
 $_['text_newsletter']    = 'Nyhetsbrev / avsluta nyhetsbrev';
-$_['text_recurring']     = 'Abonnemang';
+$_['text_recurring']     = 'Återkommande betalningar';
 $_['text_transactions']  = 'Transaktioner';

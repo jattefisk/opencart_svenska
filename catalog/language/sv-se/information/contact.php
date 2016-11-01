@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']		= 'Kontakta oss';
 
 // Text
-$_['text_location']  = 'Our Location';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
-$_['text_fax']       = 'Fax';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_location']		= 'Våra platser';
+$_['text_store']			= 'Våra butiker';
+$_['text_contact']		= 'Kontaktblankett';
+$_['text_address']		= 'Adress';
+$_['text_telephone']	= 'Telefon';
+$_['text_fax']				= 'Fax';
+$_['text_open']			= 'Öppettider';
+$_['text_comment']	= 'Kommentarer';
+$_['text_success']		= '<p>Din förfrågan har skickats till oss</p>';
 
 // Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
+$_['entry_name']		= 'Ditt namn';
+$_['entry_email']		= 'E-postadress';
+$_['entry_enquiry']		= 'Förfrågan';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']		= 'Förfrågan: %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$_['error_name']		= 'Fel: Namn måste vara mellan 3 och 32 tecken';
+$_['error_email']		= 'Fel: E-postadress är ogiltig';
+$_['error_enquiry']		= 'Förfrågan måste vara mellan 10 och 3000 tecken';
